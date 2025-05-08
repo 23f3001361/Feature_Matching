@@ -136,4 +136,4 @@ This feature matching implementation has potential applications in:
    ```
 
 ## License
-[Add your license information here] 
+This project is licensed under the [MIT License](LICENSE).
